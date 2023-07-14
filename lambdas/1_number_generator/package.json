@@ -1,0 +1,10 @@
+{
+  "name": "number-generator",
+  "version": "1.0.0",
+  "description": "number-generator lambda",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.1045.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "odd number",
+  "version": "1.0.0",
+  "description": "odd number lambda",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.1045.0"
+  }
+}
